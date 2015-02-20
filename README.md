@@ -1,2 +1,2 @@
-# imagespace
+# svgimages
 Place for SVG files
